@@ -1,0 +1,13 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/allyssonmartins/Desktop/flutterSDK/flutter
+FLUTTER_APPLICATION_PATH=/Users/allyssonmartins/Documents/Projetos/projetos_Flutter/curso_flutter_alura/contador_de_pessoas
+FLUTTER_TARGET=/Users/allyssonmartins/Documents/Projetos/projetos_Flutter/curso_flutter_alura/contador_de_pessoas/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+DART_DEFINES=flutter.inspector.structuredErrors%3Dtrue
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/allyssonmartins/Documents/Projetos/projetos_Flutter/curso_flutter_alura/contador_de_pessoas/.dart_tool/package_config.json
